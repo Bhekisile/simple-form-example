@@ -122,8 +122,8 @@ body {
       color: #777;
       margin: 5px 0 0;
   }
-  .main-view1, .main-view2 {
-    flex:1;
+  .main-view1 {
+    flex: 1;
     font-size: 0.9em;
     color-scheme: #777;
  }
